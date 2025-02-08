@@ -1,1 +1,20 @@
-jaaja
+[1,2,3,4,5]
+start =0 
+end 4
+target 6
+
+
+1midle=3
+
+is 3===6 n0
+is 3>6 no
+is 3<6 yess so start= 2 and end 4
+
+find the midd again 2+4/2=3
+
+is array[3]>target no
+is array[3]===target no
+is array[3]<target yess so start=start ===4 end ===4
+                           start =5        end 4
+
+this means if the start is greater than the end the number is not found in the list
